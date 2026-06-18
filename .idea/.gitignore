@@ -1,3 +1,13 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compilação Java
+out/
+target/
+
+# Arquivos do sistema
+.DS_Store
